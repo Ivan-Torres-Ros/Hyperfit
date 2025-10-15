@@ -33,4 +33,4 @@ Developed as part of a university project in 2025, **Hyperfit** demonstrates how
 
 👤 **Created by:** NBIDIA group  
 📅 **Year:** 2025  
-🔗 **Main Repository:** 
+🔗 **Main Repository:** [github.com/Ivan-Torres-Ros/Hyperfit](https://github.com/Ivan-Torres-Ros/Hyperfit.git)
